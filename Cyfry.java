@@ -7,8 +7,7 @@ public class Cyfry {
 		char dane[];
 		dane = new char[10];
 		for(int i = 0; i < dane.length; i++){
-			char b = (char) i;
-			dane.append(b);
+			
 		}
 		
 		
